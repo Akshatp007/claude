@@ -1,1 +1,1 @@
-https://api.workos.com/sso/authorize?client_id=client_01HWC228HRS9H2QWN9K8HARHVV&redirect_uri=https%3A%2F%2Fclaude.ai%2Fsso-callback%2Fdesktop-app&response_type=code&organization=org_01KAKER5GHSCZYV4TGCVM1X60C&state=08BmfTvrN97-3D0kRU4RwjxVfTKPl1w_fPSK7XVLLg6x8c64F12lHRwuQKWILXoKUEGEMYgK2lVBg_CiBgo8kA
+
