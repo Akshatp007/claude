@@ -1,1 +1,3 @@
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http://localhost:63589/callback&scope=org:create_api_key+user:profile+user:inference+user:sessions:claude_code+user:mcp_servers+user:file_upload+user:plugins&code_challenge=6f7QjHvcZMernwBgPlS2NToftgP-mMP4OBLwPtBhF34&code_challenge_method=S256&state=Cz0z_LfAUcitGgXe6V9Y8N4rILpXP-xeYUDL43WGDz0
 
+https://api.workos.com/sso/authorize?client_id=client_01HWC228HRS9H2QWN9K8HARHVV&redirect_uri=https%3A%2F%2Fclaude.ai%2Fsso-callback%2Fdesktop-app&response_type=code&organization=org_01KAKER5GHSCZYV4TGCVM1X60C&state=A9I9NGUiCrQNIkYf0d7SkKnJ8o2STwrkoczgTdor-2Hx__iDEXBrbBqhyOi8c3JvnD57XnV36t40pDdfIsVxGQ
